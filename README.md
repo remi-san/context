@@ -1,1 +1,1 @@
-# event-origin
+# command-origin
