@@ -1,0 +1,22 @@
+{
+    "name": "remi-san/command-origin",
+    "description" : "A set of interfaces to describe the origin of a command",
+    "keywords": [
+        "Command",
+        "Origin"
+    ],
+    "authors": [
+        {
+            "name": "Rémi San",
+            "email": "remi.san@gmail.com",
+            "homepage": "http://remi-san.github.io/",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RemiSan\\Command\\": "src/"
+        }
+    }
+}
