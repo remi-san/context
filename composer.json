@@ -3,7 +3,7 @@
     "description" : "A set of interfaces to describe the origin of a command",
     "keywords": [
         "Command",
-        "Origin"
+        "Context"
     ],
     "authors": [
         {

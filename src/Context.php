@@ -1,7 +1,7 @@
 <?php
 namespace RemiSan\Command;
 
-class Origin
+class Context
 {
     /**
      * @var mixed
@@ -18,6 +18,9 @@ class Origin
         $this->value = $value;
     }
 
+    /**
+     * @return mixed
+     */
     public function getValue()
     {
         return $this->value;
