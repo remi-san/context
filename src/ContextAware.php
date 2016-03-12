@@ -1,5 +1,5 @@
 <?php
-namespace RemiSan\Command;
+namespace RemiSan\Context;
 
 interface ContextAware
 {
