@@ -1,7 +1,7 @@
 <?php
 namespace RemiSan\Command;
 
-interface ContextAwareCommand
+interface ContextAware
 {
     /**
      * Returns the context

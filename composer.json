@@ -1,8 +1,7 @@
 {
-    "name": "remi-san/command-origin",
-    "description" : "A set of interfaces to describe the origin of a command",
+    "name": "remi-san/context",
+    "description" : "A set of interfaces to describe the context of an object",
     "keywords": [
-        "Command",
         "Context"
     ],
     "authors": [
