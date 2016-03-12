@@ -15,7 +15,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "RemiSan\\Command\\": "src/"
+            "RemiSan\\Context\\": "src/"
         }
     }
 }
