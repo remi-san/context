@@ -1,4 +1,5 @@
 <?php
+
 namespace RemiSan\Context;
 
 interface Context

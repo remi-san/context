@@ -1,10 +1,11 @@
 <?php
+
 namespace RemiSan\Context;
 
 interface ContextAware
 {
     /**
-     * Returns the context
+     * Returns the context.
      *
      * @return Context
      */

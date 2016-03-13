@@ -1,4 +1,5 @@
 <?php
+
 namespace RemiSan\Context;
 
 class ContextContainer
@@ -13,7 +14,7 @@ class ContextContainer
      */
     public static function setContext(Context $context = null)
     {
-        static::$context = $context;
+        self::$context = $context;
     }
 
     /**
@@ -21,14 +22,13 @@ class ContextContainer
      */
     public static function getContext()
     {
-        return static::$context;
+        return self::$context;
     }
 
     /**
-     * @return void
      */
     public static function reset()
     {
-        static::$context = null;
+        self::$context = null;
     }
 }
