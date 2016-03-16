@@ -6,6 +6,8 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Packagist Version](https://img.shields.io/packagist/v/remi-san/context.svg?style=flat-square)](https://packagist.org/packages/remi-san/context)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/remi-san/context.svg?style=flat-square)](https://scrutinizer-ci.com/g/remi-san/context/code-structure)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/bbf0fd42-b61b-485c-b275-e6b67f50d5c7/small.png)](https://insight.sensiolabs.com/projects/bbf0fd42-b61b-485c-b275-e6b67f50d5c7)
+
 
 A lib providing interfaces and a container to deal with **contexts** in an application.
 
